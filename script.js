@@ -15,8 +15,8 @@ const CONFIG = {
     wifeName: "KAZI MUHINA ISLAM",
     husbandName: "KAZI ABDUR RAHIM",
 
-    birthdayDate: "2026-11-20",
-    birthdayTime: "00:00",
+    birthdayDate: "2026-11-19",
+    birthdayTime: "01:51",
 
     timezone: "Asia/Dhaka",
 
