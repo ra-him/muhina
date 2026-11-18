@@ -1,9 +1,9 @@
 /* Edit this object to personalize the whole experience. */
 const CONFIG = {
-  wifeName: "YOUR_WIFE_NAME",
-  husbandName: "YOUR_NAME",
-  birthdayDate: "YYYY-MM-DD", // Example: "2026-12-05"
-  birthdayTime: "00:00:00",   // Bangladesh local time (24-hour clock)
+  wifeName: "KAZI MUHINA ISLAM",
+  husbandName: "KAZI ABDUR RAHIM",
+  birthdayDate: "2006-11-19", // Example: "2026-12-05"
+  birthdayTime: "01:19:00",   // Bangladesh local time (24-hour clock)
   couplePhoto: "our-photo.jpg",
   backgroundMusic: "romantic-music.mp3",
   enableMusic: true,
