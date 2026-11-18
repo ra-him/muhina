@@ -7,20 +7,29 @@ const CONFIG = {
   couplePhoto: "our-photo.jpg",
   backgroundMusic: "romantic-music.mp3",
   enableMusic: true,
-  loveLetter: `My Love,
+  loveLetter: `প্রিয় KAZI MUHINA ISLAM,
 
-Happy Birthday to the most precious person in my life.
+শুভ জন্মদিন, আমার ভালোবাসা।
 
-I may not always find the perfect words to express how much you mean to me, but I want you to know that you make my life more beautiful just by being in it.
+তুমি আমার জীবনের এমন একজন মানুষ,
+যার উপস্থিতি আমার প্রতিটি দিনকে সুন্দর করে তোলে।
 
-Thank you for being my happiness, my comfort, and my favorite person.
+তোমার হাসি, তোমার অভিমান,
+তোমার ছোট ছোট আবদার—
+সবকিছুই আমার কাছে অনেক মূল্যবান।
 
-I wish you endless happiness, good health, success, and countless beautiful moments.
+জীবনের প্রতিটি মুহূর্তে তোমার পাশে থাকতে চাই।
+তোমার সুখে হাসতে চাই,
+তোমার দুঃখে হাত ধরে রাখতে চাই।
 
-No matter how many birthdays come and go, I will always be grateful to celebrate every moment of life with you.
+আল্লাহ তোমার জীবনকে সুখ, শান্তি,
+সুস্থতা ও ভালোবাসায় ভরিয়ে দিন।
 
-With all my love,
-{HUSBAND_NAME} ❤️`
+আজকের এই বিশেষ দিনে শুধু এটুকুই বলতে চাই—
+তোমাকে অনেক ভালোবাসি।
+
+ইতি,
+তোমার {HUSBAND_NAME} ❤️`
 };
 
 (() => {
