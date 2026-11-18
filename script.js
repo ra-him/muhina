@@ -2,8 +2,8 @@
 const CONFIG = {
   wifeName: "KAZI MUHINA ISLAM",
   husbandName: "KAZI ABDUR RAHIM",
-  birthdayDate: "2026-11-23", // Example: "2026-12-05"
-  birthdayTime: "02:09:00",   // Bangladesh local time (24-hour clock)
+  birthdayDate: "2026-11-19", // Example: "2026-12-05"
+  birthdayTime: "02:11:00",   // Bangladesh local time (24-hour clock)
   couplePhoto: "our-photo.jpg",
   backgroundMusic: "romantic-music.mp3",
   enableMusic: true,
